@@ -1,0 +1,5 @@
+{
+  "name": "BudgetBot",
+  "description": "An intelligent personal expense tracker and analyzer. Add your expenses, and let Gemini provide you with categorized insights, spending summaries, and actionable financial tips to improve your financial health.",
+  "requestFramePermissions": []
+}
